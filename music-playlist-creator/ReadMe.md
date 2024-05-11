@@ -51,10 +51,7 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
   - [ ] Implement a dropdown or button options that allow users to sort the playlist by name, number of likes, or date added.
 
 ### Walkthrough Video
-
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+<video src="./assets/img/appWalktrough.mov" width="320" height="240" controls></video>
 
 ### Reflection
 
