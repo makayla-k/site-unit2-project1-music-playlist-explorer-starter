@@ -1,5 +1,3 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit 2 Assignment: Globetrotter
 
 Submitted by: **NAME**
@@ -51,7 +49,7 @@ Deployed Application (optional): [Music Playlist Explorer Deployed Site](ADD_LIN
   - [ ] Implement a dropdown or button options that allow users to sort the playlist by name, number of likes, or date added.
 
 ### Walkthrough Video
-<video src="./assets/img/appWalktrough.mov" width="320" height="240" controls></video>
+https://www.youtube.com/embed/vTFL3372Xro?si=6MVbrZRJTeVbNMu6
 
 ### Reflection
 
